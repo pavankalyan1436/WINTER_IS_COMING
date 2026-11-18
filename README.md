@@ -16,6 +16,18 @@ Snow falls on your desktop and piles up on your windows and Dock. Roll it into s
 - 🖐️ **Hold a snowball** with the left mouse button and carry it anywhere
 - ⛄ **Stack three snowballs** and they turn into a snowman with a carrot nose and a red scarf
 - 💥 **A falling snowball goes *poof*** into a soft heap of snow, ready to be rolled again
+- ✨ **Snowman lights**: every snowman wears twinkling colored string lights (switch them off in the ❄︎ menu)
+
+### Holiday extras 🎄
+
+| Shortcut | What happens |
+| --- | --- |
+| **⌥C** | A snowplow drives along the bottom and clears the snow |
+| **⌥P** | Kids, or sometimes a family, come out to play: snowball fights, sledding and building snowmen. Press again to send them home |
+| **⌥T** | A decorated Christmas tree pops up with lights, ornaments and a star. Press again to take it down |
+| **⌥S** | Santa flies across the sky in his reindeer sleigh and drops presents under the tree |
+
+The snow also keeps falling after your Mac wakes from sleep.
 
 ## Download 🎁
 
